@@ -87,5 +87,5 @@ Añadir contenido al archivo y revisarlo ejecutando ``cat notas.txt``.
 * [Documentación Oficial de Ubuntu](https://help.ubuntu.com/)
 * [Manual de Comandos Linux](https://www.freecodecamp.org/espanol/news/comandos-de-linux/)
 * [Tutoriales de Linux](https://youtu.be/L906Kti3gzE?si=eIHoVe9mRZQIiC9g)
-
+* [Tutoriales de Windows](https://youtu.be/L906Kti3gzE?si=eIHoVe9mRZQIiC9g)
 ---
