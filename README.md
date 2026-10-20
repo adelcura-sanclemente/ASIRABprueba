@@ -76,12 +76,6 @@ Ejecutar ``mkdir mi_proyecto`` para crear una carpeta y luego ``cd mi_proyecto``
 3. ***Crear y comprobar un archivo:***
 Ejecutar ``touch notas.txt`` para generar un documento y luego comprobar que existe ``ls -l``.
 
-4. ***Escribir y verificar datos***
-Añadir contenido al archivo y revisarlo ejecutando ``cat notas.txt``.
-
-
-![](https://victorhckinthefreeworld.com/wp-content/uploads/2014/06/consola-linux-tux.jpg)
-
 ---
 ## 5. Recursos Adicionales
 * [Documentación Oficial de Ubuntu](https://help.ubuntu.com/)
