@@ -83,3 +83,10 @@ Ejecutar ``touch notas.txt`` para generar un documento y luego comprobar que exi
 * [Tutoriales de Linux](https://youtu.be/L906Kti3gzE?si=eIHoVe9mRZQIiC9g)
 * [Tutoriales de Windows](https://youtu.be/L906Kti3gzE?si=eIHoVe9mRZQIiC9g)
 ---
+
+
+
+## Información del proyecto
+Esta documentación se ha elaborado utilizando Markdown.
+El control de versiones se realiza mediante Git
+y el repositorio remoto se encuentra alojado en GitHub.
