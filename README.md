@@ -90,3 +90,7 @@ Ejecutar ``touch notas.txt`` para generar un documento y luego comprobar que exi
 Esta documentación se ha elaborado utilizando Markdown.
 El control de versiones se realiza mediante Git
 y el repositorio remoto se encuentra alojado en GitHub.
+
+## Próximas mejoras
+* 1.Añadir un proyecto de verdad
+* 2. Otros aspectos necesarios para el funcionamiento. 
