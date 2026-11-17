@@ -56,7 +56,7 @@ Instrucciones para gestionar privilegios y mantener la terminal limpia:
   clear  
   history
   ```
-| Comando | ¿Qué hace? | E.j de Uso |
+| Comando | ¿Qué hace? | E.j de Uso |//asdasdadssasad
 | :---: | :---: | :---: |
 | sudo | Anteponer este comando ejecuta la instrucción con privilegios de administrador (root) | Ejecuta la actualización de paquetes con permisos de administrador (root)(``sudo apt update``) | 
 | clear | Limpia todo el texto visible en la pantalla de la terminal | Borrar todo el texto visible en la pantalla para dejar la terminal limpia |
