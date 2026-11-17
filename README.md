@@ -94,3 +94,7 @@ y el repositorio remoto se encuentra alojado en GitHub.
 ## Próximas mejoras
 * 1.Añadir un proyecto de verdad
 * 2. Otros aspectos necesarios para el funcionamiento. 
+asdasdasdasd
+asdadsasdasd
+asdasd
+asdasdda
